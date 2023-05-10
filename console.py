@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 import cmd
 from models.base_model import BaseModel
-from model.engine.file_storage import save
 """console.py model"""
 
 
